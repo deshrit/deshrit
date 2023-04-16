@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-<!--
-**deshrit/deshrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on different backend engineering and ML & AI projects.
-- 🌱 I’m currently learning some little amount of frontend.
-- 👯 I’m looking to collaborate on fullstack applications, ML & AI models and robotics projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about backend engineering, ML & AI and robotics applications and designs
+- 🔭 I’m currently working on different backend engineering and ML & AI based projects 🛠.
+- 🌱 I’m currently learning everything 😆.
+- 👯 I’m looking to collaborate on fullstack applications, ML & AI and robotics projects.
+- 🤔 I’m looking for help with duuno difficult things maybe 👀.
+- 💬 Ask me about being alone 😞.
 - 📫 How to reach me: deshritbaral@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I like to listen and love and care and I need whole lot of attention 😐.
